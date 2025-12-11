@@ -1,0 +1,24 @@
+html{
+    box-sizing: border-box;
+}
+
+* {
+    background-color: lavender;
+}
+
+.title{
+    text-align: center;
+    padding: 2px;
+    border-bottom: 6px dotted aquamarine;
+}
+
+.food-image-basic{
+    width: 350px;
+    height: auto;
+    margin: 0px auto -10px auto;
+}
+
+.ingredients{
+    margin-bottom: 12px;
+}
+
